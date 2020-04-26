@@ -1,5 +1,5 @@
 # DataSetAndSketch
-Dataviz suggestions based on 2 things: data shape (shape, units, etc.) and sketch (hand draw and speak, or ImageSearchResult) )
+Dataviz suggestions based on 2 things: data shape (dimensions, units, etc.) and sketch (hand draw and speak, or ImageSearchResult) )
 
 Some related links:
 - https://twitter.com/steltenpower/status/1223580730825039873
