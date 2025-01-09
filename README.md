@@ -9,3 +9,5 @@ Some related links:
 - https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf
 - https://datavizcatalogue.com/
 - [ggplot2](https://ggplot2.tidyverse.org/)
+
+https://akademienl.social/@kolibril13@fosstodon.org/111601819868759236
